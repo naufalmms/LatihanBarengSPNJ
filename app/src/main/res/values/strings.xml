@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Latihan SPNJ_01</string>
+    <string name="text1"><b>Ini Text yang di BOLD 20DP</b></string>
+    <string name="text2"><u>Ini Text yang di UNDERLINE</u></string>
+    <string name="text3"><i> Ini Text yang di ITALIC</i></string>
+    <string name="bttn1">Menuju Layout LINEAR</string>
+</resources>
